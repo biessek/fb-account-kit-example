@@ -1,3 +1,8 @@
+# DEPRECATED
+## Facebook Account Kit is being deprecated: read more https://developers.facebook.com/docs/accountkit/
+This package will not be mantained anymore
+
+
 # passwordless-example
 
 > Example login with Facebook Account kit
